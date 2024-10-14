@@ -37,7 +37,7 @@ Matrix = [[0 for x in range(3)] for y in range(3)];
 												
 
 def tictactoe():
-    print("Your computer has succsesfully acquired AIDS");
+
     printboard();
     x = input();
     y = input();
